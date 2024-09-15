@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #0076C0; /* Blue background */
+    color: #FFFFFF; /* White text */
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+  
+  .navbar-links a {
+    color: #FFFFFF; /* White text */
+    text-decoration: none;
+    margin: 0 16px;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+  
